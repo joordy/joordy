@@ -2,9 +2,9 @@
 
 <!-- Github stats -->
 
-#### Connect with me:
+<!-- #### Connect with me:
 
-[<img align="left" alt="@Joordy_" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][https://www.instagram.com/joordy_]
+[<img align="left" alt="@Joordy_" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][https://www.instagram.com/joordy_] -->
 
 #### My open GitHub stats:
 
