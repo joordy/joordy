@@ -8,19 +8,22 @@
 
 #### My open GitHub stats:
 
-<img align="left" alt="Joordy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joordy&show_icons=true&hide_border=true">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" alt="Joordy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joordy&show_icons=true&hide_border=true">
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joordy&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</a>
+
+<!-- <img align="left" alt="Joordy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joordy&show_icons=true&hide_border=true"> -->
 
 ---
 
 ### Most written languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joordy&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joordy&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### This week I've spend my time on:
-
-[![weekly stats stats](https://github-readme-stats.vercel.app/api/wakatime?username=joordy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **joordy/joordy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
