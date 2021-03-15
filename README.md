@@ -8,8 +8,9 @@
 
 #### My open GitHub stats:
 
-<img align="left" alt="Joordy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joordy&show_icons=true&hide_border=true">
-<img align='right' alt="Joordy's language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joordy&hide=css,html&layout=compact">
+[![Joordy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joordy&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Joordy's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joordy&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <img align="left" alt="Joordy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joordy&show_icons=true&hide_border=true">
