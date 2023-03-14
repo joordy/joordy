@@ -9,7 +9,7 @@
 #### My open GitHub stats:
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joordy&layout=compact&langs_count=10&title_color=9E9EFF&border_color=9E9EFF&text_color=433a4bff&hide=procfile"
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joordy&layout=compact&hide=CSS&langs_count=10&title_color=9E9EFF&border_color=9E9EFF&text_color=433a4bff&hide=procfile"
    />
 </a>
    <!-- alt="a visualisation of my most used programming languages. Js comes first, HTML is a close second, SCSS is third, Vue on fourth place and CSS takes fifth place."  -->
